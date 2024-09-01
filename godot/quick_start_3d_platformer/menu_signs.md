@@ -1,7 +1,4 @@
----
-title: Menu Signs
----
-# {{ page.title }}
+# Menu Signs
 
 In this mini-guide, we'll combine the work from the [Make a Sign](sign.md) and [Make a Menu](menus.md) guides to create menus that appear when you walk up to a sign.
 

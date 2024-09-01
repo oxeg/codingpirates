@@ -1,6 +1,5 @@
----
-title: Exporting
----
+# Exporting
+
 Before you can get other people to play your glorious game, you will need to _export_ it.
 
 Godot supports exporting to many different platforms: Windows, Mac, Linux, Web, Android, iOS and more.

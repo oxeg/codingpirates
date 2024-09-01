@@ -1,7 +1,4 @@
----
-title: Custom Platforms
----
-# {{ page.title }}
+# Custom Platforms
 
 While Godot is no substitute for Blender and similar modelling packages, you _can_ in fact use it for prototyping your levels.
 

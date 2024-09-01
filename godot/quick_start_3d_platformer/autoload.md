@@ -1,7 +1,4 @@
----
-title: Autoload
----
-# {{ page.title }}
+# Autoload
 
 > This guide assumes you've already completed the guides [More Levels](more_levels.md) and [Portals](portals.md).
 

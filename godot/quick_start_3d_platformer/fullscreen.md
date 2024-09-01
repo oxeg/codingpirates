@@ -1,7 +1,4 @@
----
-title: Full Screen
----
-# {{ page.title }}
+# Full Screen
 
 While testing, it's convenient to be able to still see the Godot editor window. However, for the full experience you'll probably want to make your game fill the whole screen.
 

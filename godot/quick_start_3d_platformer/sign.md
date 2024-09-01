@@ -1,7 +1,4 @@
----
-title: Make a Sign
----
-# {{ page.title }}
+# Make a Sign
 
 In this mini-guide, we'll make a little sign that you can place in your world, with any text on it!
 

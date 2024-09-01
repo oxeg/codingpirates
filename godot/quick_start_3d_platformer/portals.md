@@ -1,7 +1,4 @@
----
-title: Portals
----
-# {{ page.title }}
+# Portals
 
 Let's see if we can make the flags load another scene, af if the flag is a "portal" that transports the player to the other scene.
 

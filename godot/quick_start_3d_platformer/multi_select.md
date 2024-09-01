@@ -1,7 +1,4 @@
----
-title: Multi-Select
----
-# {{ page.title }}
+# Multi-Select
 
 As your scenes become larger, moving things around individually can become rather tedious. Fortunately you have multiple ways to select multiple nodes at the same time:
 

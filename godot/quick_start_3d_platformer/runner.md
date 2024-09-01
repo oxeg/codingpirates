@@ -1,7 +1,4 @@
----
-title: Runners
----
-# {{ page.title }}
+# Runners
 
 ## Auto-run to make the game a "Runner" game
 

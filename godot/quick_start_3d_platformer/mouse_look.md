@@ -1,7 +1,4 @@
----
-title: Mouse Look
----
-# {{ page.title }}
+# Mouse Look
 
 ## Default game controls
 

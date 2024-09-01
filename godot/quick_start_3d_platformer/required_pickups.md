@@ -1,7 +1,4 @@
----
-title: Required Pickups
----
-# {{ page.title }}
+# Required Pickups
 
 If you want to make it possible to continue to the next level only once all the coins have been collected, try this.
 

@@ -1,7 +1,4 @@
----
-title: More Players
----
-# {{ page.title }}
+# More Players
 
 ## 2 or more players that move together
 

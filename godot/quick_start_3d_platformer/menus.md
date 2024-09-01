@@ -1,7 +1,4 @@
----
-title: Menus
----
-# {{ page.title }}
+# Menus
 
 In this mini-guide, we'll make add a menu to our game, using Godot's User Interface (UI) facilities.
 
