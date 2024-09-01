@@ -56,7 +56,7 @@ What we just did with the coins also works with the platforms and clouds, and *e
 
 Here's an example of what it can look like:
 
-<p><video muted controls><source src="res/3d_platformer_variation.mp4" type="video/mp4"></video></p>
+<p><video muted controls width="740px"><source src="res/3d_platformer_variation.mp4" type="video/mp4"></video></p>
 
 I'd love to see what you come up with!
 

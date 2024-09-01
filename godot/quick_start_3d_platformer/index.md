@@ -9,7 +9,7 @@ In this short guide you'll get started with Godot 4.2 _quickly_, using the 3D Pl
 
 It will look something like this:
 
-<p><video muted controls><source src="res/3d_platformer_main.mp4" type="video/mp4"></video></p>
+<p><video muted controls width="740px"><source src="res/3d_platformer_main.mp4" type="video/mp4"></video></p>
 
 If you follow along, we'll make it _even_ cooler.
 
