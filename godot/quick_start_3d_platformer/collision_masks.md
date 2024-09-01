@@ -1,4 +1,6 @@
-# Collision Masks
+---
+title: Collision Masks
+---
 
 The Starter Kit is setup with both the player, and all other bodies on Collision Layer 1. This can cause errors and bugs, when for example platforms touch (and catch!) coins, or platform touch the flag collision shapes.
 

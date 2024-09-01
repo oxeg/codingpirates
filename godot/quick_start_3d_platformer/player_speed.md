@@ -1,4 +1,6 @@
-# Player Speed/Jump Power
+---
+title: Player Speed/Jump Power
+---
 
 You can make levels where the player is faster and jumps higher, like if on a different planet.
 

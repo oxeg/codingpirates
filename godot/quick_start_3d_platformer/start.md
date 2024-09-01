@@ -1,4 +1,6 @@
-# Start from a Template
+---
+title: Start from a Template
+---
 
 We will use an awesome template from the Asset Library, made by [KenneyNL](https://kenney.nl/starter-kits) 🔗.
 

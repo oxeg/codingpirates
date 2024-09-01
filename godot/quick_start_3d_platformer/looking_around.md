@@ -1,4 +1,6 @@
-# Looking Around
+---
+title: Looking Around
+---
 
 While the controls in the game are pretty typical, navigating the 3D viewport is a little more complex, so to get you started here's a few tips:
 

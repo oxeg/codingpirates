@@ -1,4 +1,6 @@
-# Exporting
+---
+title: Exporting
+---
 
 Before you can get other people to play your glorious game, you will need to _export_ it.
 

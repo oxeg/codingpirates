@@ -1,4 +1,6 @@
-# Changing Environment
+---
+title: Changing Environment
+---
 
 Now that we have multiple levels, and a way to move between levels, it might be interesting to have different lighting and look on some levels.
 

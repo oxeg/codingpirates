@@ -1,4 +1,6 @@
-# More Levels
+---
+title: More Levels
+---
 
 If you want another level, you can base it off an existing one like this:
 

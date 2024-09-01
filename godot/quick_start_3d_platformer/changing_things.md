@@ -1,4 +1,6 @@
-# Changing Things
+---
+title: Changing Things
+---
 
 Next, let's try to move that coin next to the player up a bit so we have to jump to get it.
 

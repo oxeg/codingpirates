@@ -1,4 +1,6 @@
-# Godot Quick Start - 3D Platformer
+---
+title: Godot Quick Start - 3D Platformer
+---
 
 > Created with Godot 4.2
 

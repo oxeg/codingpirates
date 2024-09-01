@@ -1,4 +1,6 @@
-# More Players
+---
+title: More Players
+---
 
 ## 2 or more players that move together
 

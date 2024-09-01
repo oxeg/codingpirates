@@ -1,4 +1,6 @@
-# Mouse Look
+---
+title: Mouse Look
+---
 
 ## Default game controls
 

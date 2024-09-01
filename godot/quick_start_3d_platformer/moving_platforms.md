@@ -1,4 +1,6 @@
-# Moving platforms
+---
+title: Moving platforms
+---
 
 In this mini-guide we will make platforms move smoothly from side to side in a [_sinusoidal_](https://en.wikipedia.org/wiki/Sine_wave) motion.
 
