@@ -2,8 +2,11 @@
 title: Download and "Install" Godot
 ---
 
-* Go to [www.godotengine.org](https://www.godotengine.org)
-* Click the "Download Latest" button
+# Godot Installation
+
+- [Godot for Windows](https://godotengine.org/download/windows/)
+- [Godot for MacOS](https://godotengine.org/download/macos/)
+- [Godot for Linux](https://godotengine.org/download/linux/)
 
 ![Download Latest](assets/download_latest.png)
 
